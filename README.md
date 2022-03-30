@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-component-with-flexbox-and-custom-properties-r1FqUVMQc](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-component-with-flexbox-and-custom-properties-r1FqUVMQc)
 - Live Site URL: [https://fem-qr-code-component-ewj806ofl-claire.vercel.app/](https://fem-qr-code-component-ewj806ofl-claire.vercel.app/)
 
 ## My process
